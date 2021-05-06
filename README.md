@@ -28,4 +28,4 @@ Tôi không khuyến cáo các bạn nhảy cóc tới 1 bài nào đó riêng r
 
 _Hãy đọc lần lượt_, mỗi bài học sẽ như là 1 bậc thang giúp bạn lên cao hơn **1 chút** trong sự nghiệp học tập của bản thân mình.
 
-Bài 1: Chuẩn bị cho mình 1 số tâm hồn đẹp.
+[Bài 1: Chuẩn bị cho mình 1 số tâm hồn đẹp](https://github.com/gallgall/cung-hoc-ios/wiki/Bài-1:-Chuẩn-bị-cho-mình-1-số-tâm-hồn-đẹp)
