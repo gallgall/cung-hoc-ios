@@ -30,7 +30,7 @@ _Hãy đọc lần lượt_, mỗi bài học sẽ như là 1 bậc thang giúp 
 
 [Bài 1: Chuẩn bị cho mình 1 số tâm hồn đẹp](https://github.com/gallgall/cung-hoc-ios/wiki/Bài-1:-Chuẩn-bị-cho-mình-1-số-tâm-hồn-đẹp)
 
-Bài 2: Swift vỡ lòng.
+[Bài 2: Swift vỡ lòng](https://github.com/gallgall/cung-hoc-ios/wiki/Bài-2:-Swift-vỡ-lòng)
 
 Bài 3: Swift và tập hợp.
 
